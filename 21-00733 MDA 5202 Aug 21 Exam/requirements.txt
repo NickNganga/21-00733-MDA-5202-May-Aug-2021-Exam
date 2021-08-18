@@ -1,0 +1,7 @@
+texthero
+unidecode
+keras
+tensorflow==2.6.0
+
+graphviz
+ann_visualizer
